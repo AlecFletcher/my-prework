@@ -4,7 +4,7 @@ App Description
 ### Hello World app that allows the user to change the text, the color of the text, and the background color of the app.
 
 ### App Walk-though
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/zKZnEWZ" data-context="false" ><a href="//imgur.com/a/zKZnEWZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/zKZnEWZ.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
